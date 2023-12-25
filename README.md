@@ -61,4 +61,4 @@ Reliability is key. Comprehensive unit tests are included to ensure the applicat
 ## Deployment and Scalability
 The application is deployed on AWS, ensuring both reliability and scalability. The frontend is hosted on AWS S3, while the backend is powered by AWS ECS and ECR. Scalability strategies include auto-scaling and load balancing.
 
-Thank you for exploring the Social Network Application Backend. Enjoy using the platform!
+Thank you for exploring the Social Network Application Backend. Check out the Frontend (React) for the application [here](https://github.com/gpower-crypto/Social-Network---Frontend). 
